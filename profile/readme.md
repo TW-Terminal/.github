@@ -5,6 +5,7 @@
  --
  
  在 TWT 中，你可以執行基本部署/Push，且完全中文化
+ - [TWT Deploy](https://github.com/TW-Terminal/twt-deploy)
 
 ## 如何加入 TWTerminal 開發團隊
  你可以透過 [這裡](https://twt.illusd.com/join-develop) 來填寫表單與聯繫方式
